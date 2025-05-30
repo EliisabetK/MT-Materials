@@ -6,19 +6,19 @@ This repository contains all of the relevant materials and code for developing a
 
 - **`Lab Materials/`**  
   Materials used during the original lab session held on April 8–9:
-  - Student and TA instructions  
+  - Student and TA instructions (TA hidden)
   - Lab session slides  
   - ZIP file provided to students
 
 - **`Improved Materials/`**  
   Revised materials based on the feedback from the students and instructors. These are intended for use in future lab sessions:
   - Updated student instructions  
-  - Updated TA instructions
+  - Updated TA instructions (hidden)
  
 - **`Feedback Lab 7`**
   Feedback form sent out to the students after the homework deadline.
 
-### The following folders (Task1 and Task2) are not available for confidentiality reasons. They can be made available on request.
+### The following folders (Task1 and Task2) and the TA files are not available for confidentiality reasons. They can be made available on request:
 
 - **`Task1/`** — *Braking Distance Calculator (Java)*  
   - `src/main/java/` — Contains the braking distance calculator implementations, a CLI entry point, and the shared interface  
